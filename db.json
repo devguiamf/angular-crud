@@ -1,0 +1,19 @@
+{
+    "carros":[
+    {
+        "id":1,
+        "nome":"Ferrari",
+        "preço":"1,000.000"
+    },
+    {
+        "id":2,
+        "nome":"Eco-Esport",
+        "preço":"30,000"
+    },
+    {
+        "id":3,
+        "nome":"Corsinha",
+        "preço":"10,000"
+    }
+]
+}
